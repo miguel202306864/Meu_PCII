@@ -17,3 +17,4 @@ esc = v1.escalar(v2)
 print('Produto escalar=', esc)
 vec = v1.vetorial(v2)
 print('Produto vetorial=', vec)
+
